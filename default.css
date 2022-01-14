@@ -1,0 +1,40 @@
+body {
+    max-width: 1000px;
+    margin:    auto;
+    left:      1%;
+    right:     1%;
+    position:  absolute;
+}
+
+h1, h3 {
+    color:     #da85ff;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+p {
+    color:     #525252;
+    font-family: 'Open Sans', sans-serif;
+}
+
+li {
+    color:     #525252;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+    font-size: smaller;
+    display: inline-block;
+    margin-top: 2%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+.cu{
+    font-size: 17px;
+}
